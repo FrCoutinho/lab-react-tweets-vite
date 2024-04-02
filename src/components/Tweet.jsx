@@ -1,3 +1,10 @@
+import React from 'react';
+import ProfileImage from './ProfileImage';
+import User from './User';
+import Timestamp from './Timestamp';
+import Message from './Message';
+
+
 function Tweet() {
   return (
     <div className="tweet">
